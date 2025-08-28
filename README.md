@@ -19,7 +19,6 @@ Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dad
   <a href="https://github.com/DouglasSouza89" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge"/>
 </p>
 
 ## 🛠️ Tecnologias (core)
