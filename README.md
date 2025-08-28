@@ -1,6 +1,7 @@
-# Hi 👋, I'm Douglas Souza
+# Olá 👋, eu sou o Douglas Souza
 
-**Data Engineer (Júnior) | Python • SQL • ETL/ELT • Azure**
+
+** Engenheiro de Dados Junior / Data Engineer (Júnior) | Python • SQL • ETL/ELT • Azure**
 
 Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dados, modelagem e automação com Python/SQL.
 
@@ -18,8 +19,7 @@ Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dad
 
 ## 🚀 Projetos
 - [sistema-bancario-basico](https://github.com/DouglasSouza89/sistema-bancario-basico) — app CLI em Python
-- [fiis-darf-calculadora](#) — ETL e cálculo de DARF (em progresso)
-- [orcamento-obras-sinapi](#) — dados e estimativas (em progresso)
+
 
 ## 📚 Agora estudando
 Python avançado, Lakehouse (Delta/Databricks), dbt, Kafka, Docker, CI/CD em dados, Kimball/Data Vault.
