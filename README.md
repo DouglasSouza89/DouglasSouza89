@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Douglas Souza
 
 
-** Engenheiro de Dados Junior / Data Engineer (Júnior) | Python • SQL • ETL/ELT • Azure**
+**Engenheiro de Dados Junior / Data Engineer (Júnior) | Python • SQL • ETL/ELT • Azure**
 
 Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dados, modelagem e automação com Python/SQL.
 
