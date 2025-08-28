@@ -45,7 +45,14 @@ Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dad
 - [sistema-bancario-basico](https://github.com/DouglasSouza89/sistema-bancario-basico) — app CLI em Python
 
 ## 📚 Agora estudando
-Python avançado, Lakehouse (Delta/Databricks), dbt, Kafka, Docker, CI/CD em dados, Kimball/Data Vault.
+- Python • SQL • Git • Pandas
+- Modelagem de Dados
+- NoSQL (MongoDB/Cassandra – fundamentos)
+- Orquestração: Apache Airflow (ETL/ELT)
+- Big Data: Apache Spark
+- Integração de dados: CSV, SQL e APIs → ETL no Airflow
+- Cloud (Azure): Azure Data Lake (ADLS)
+
 
 ## 🔗 Contato
 - LinkedIn: https://linkedin.com/in/DouglasSouza89  
