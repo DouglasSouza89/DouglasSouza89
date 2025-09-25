@@ -43,11 +43,13 @@ Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dad
 ## 📚 Agora estudando
 - Python • SQL • Git • Pandas
 - Modelagem de Dados
-- NoSQL (MongoDB/Cassandra – fundamentos)
 - Orquestração: Apache Airflow (ETL/ELT)
 - Big Data: Apache Spark
 - Integração de dados: CSV, SQL e APIs → ETL no Airflow
 - Cloud (Azure): Azure Data Lake (ADLS)
+- Excel Avançado: Tabelas Dinâmicas, Power Query, fórmulas complexas (PROCX, SOMASES), dashboards gerenciais
+- 
+
 
 
 ## 🔗 Contato
