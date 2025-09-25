@@ -47,8 +47,8 @@ Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dad
 - Big Data: Apache Spark
 - Integração de dados: CSV, SQL e APIs → ETL no Airflow
 - Cloud (Azure): Azure Data Lake (ADLS)
-- Excel Avançado: Tabelas Dinâmicas, Power Query, fórmulas complexas (PROCX, SOMASES), dashboards gerenciais
-- 
+- Excel Avançado: Tabelas Dinâmicas, Power Query, fórmulas complexas (PROCX, SOMASES), dashboards 
+  
 
 
 
