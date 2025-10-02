@@ -37,24 +37,41 @@ Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dad
 
 </p>
 
-## 🚀 Projetos
-- [olist-ecommerce-analytics](https://github.com/DouglasSouza89/olist-ecommerce-analytics) — pipeline e análise de dados do Olist (arquitetura medalhão Bronze/Silver/Gold), ingestão e tratamento com Python/SQL, orquestração com Airflow/DBT e dashboard em Power BI.
+## 📚 Catálogo de Projetos
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)
-  ![DBT](https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=white)
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+- [P01 — Olist E-commerce Analytics](#p01-olist-e-commerce-analytics)
+- [P02 — Sistema Bancário Básico](#p02-sistema-bancário-básico)
 
-  **Destaques:**
-  - Pipeline em camadas (Bronze → Silver → Gold)
-  - Limpeza, modelagem e criação de tabelas analíticas
-  - Métricas de vendas, clientes e logística
-  - Dashboard com KPIs no Power BI
+---
 
+### P01 — Olist E-commerce Analytics  
+[🔗 Repositório](https://github.com/DouglasSouza89/olist-ecommerce-analytics)
 
-- [sistema-bancario-basico](https://github.com/DouglasSouza89/sistema-bancario-basico) — app CLI em Python
+![P01](https://img.shields.io/badge/ID-P01-222)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+
+Pipeline e análise de dados do **Olist** utilizando arquitetura **medalhão (Bronze → Silver → Gold)**, ingestão e tratamento com Python/SQL, orquestração com Airflow/DBT e visualização em Power BI.
+
+**Destaques:**
+- Pipeline em camadas (Bronze → Silver → Gold)  
+- Limpeza, modelagem e criação de tabelas analíticas  
+- Métricas de vendas, clientes e logística  
+- Dashboard com KPIs no Power BI  
+
+---
+
+### P02 — Sistema Bancário Básico  
+[🔗 Repositório](https://github.com/DouglasSouza89/sistema-bancario-basico)
+
+![P02](https://img.shields.io/badge/ID-P02-222)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+Aplicação **CLI em Python** para operações bancárias simples, simulando abertura de contas, depósitos, saques e consultas de saldo.
 
 ## 📚 Agora estudando
 - Python • SQL • Git • Pandas
