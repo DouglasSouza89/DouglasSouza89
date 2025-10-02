@@ -38,6 +38,15 @@ Engenheiro Civil migrando para **Engenharia de Dados**. Foco em pipelines de dad
 </p>
 
 ## 🚀 Projetos
+- [olist-ecommerce-analytics](https://github.com/DouglasSouza89/olist-ecommerce-analytics) — pipeline e análise de dados do Olist (medalhão Bronze/Silver/Gold), ingestão e tratamento com Python/SQL, orquestração com Airflow/DBT e dashboard em Power BI.
+
+  **Stack:** `Python` • `SQL` • `Pandas` • `DBT` • `Airflow` • `Spark (opcional)` • `Power BI` • `Azure (ADLS)`  
+  **Destaques:**
+  - Ingestão bruta (Bronze) → limpeza e modelagem (Silver) → tabelas analíticas (Gold)
+  - Métricas de vendas, cohort de clientes, LTV, churn e margem por categoria
+  - Diagrama Mermaid + dicionário de dados no diretório `docs/`
+  - Dashboard com KPIs (receita, pedidos, ticket médio, lead time logístico)
+
 - [sistema-bancario-basico](https://github.com/DouglasSouza89/sistema-bancario-basico) — app CLI em Python
 
 ## 📚 Agora estudando
